@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hgenpati
 - 👀 I’m interested in pyhon
-- 🌱 I’m currently learning Fast-API
+- 🌱 I’m currently learning Fast-API & Jamstack
 - 💞️ I’m looking to collaborate on Open Source Project
 
 <!---
